@@ -12,3 +12,6 @@
 
 - Tổng hợp các năng lực của các hoàng tử Kakin [Xem](./nangluc01.md)
 - HALKENBURG - Vị vua tiếp theo của vương triều Kakin ? [Xem](./vuakakin.md)
+
+- Các giả thiết [Xem](./giathiet.md)
+- Phỏng vấn [Xem](./phongvan.md)
