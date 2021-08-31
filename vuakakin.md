@@ -4,7 +4,7 @@ HALKENBURG - VỊ VUA TIẾP THEO CỦA VƯƠNG TRIỀU KAKIN ?
 
 Ở chương 382, khi mà Halkenburg đến gặp vua cha Nasubi để muốn kết thúc cuộc chiến vương quyền có 2 chi tiết khá thú vị: Bức tranh "Saturn devouring his son" và khái niệm "Trolley problem". Mình xin phân tích 1 chút như sau:
 
-➊. Bức tranh "Saturn devouring his son" (Saturn ăn thịt con trai)
+### ➊. Bức tranh "Saturn devouring his son" (Saturn ăn thịt con trai)
 
 Đây là 1 trong 14 bức tranh đen nổi tiếng của Francisco Goya (nghệ sĩ vẽ tranh người Tây Ban Nha), những bức tranh này được tạo ra sau khi Goya đã sống sót sau hai căn bệnh gần như gây tử vong, những bức tranh được gọi là tranh đen do việc sử dụng các sắc tố đen tối của các nghệ sĩ và chủ đề mơ hồ của họ. Chúng được Goya vẽ lên tường và sau này được chuyển lên vải trong năm 1873 trước khi được trao cho Museo del Prado của Madrid trong 1899. Bức tranh đen thứ 12 vẽ cảnh Saturn đang ăn thịt đứa con của mình.
 
@@ -18,7 +18,7 @@ Chim đại bàng là chúa tể của bầu trời, biểu tượng cho sức m
 
 Nếu theo hướng suy nghĩ của mình thì Vua Nasubi cũng có gợi ý về khả năng này. Đó là khái niệm "Trolley problem"
 
-➋. Khái niệm "Trolley problem"
+### ➋. Khái niệm "Trolley problem"
 
 The Trolley problem là một thí nghiệm về trết lý đạo đức rất nổi tiếng được dạy ở rất nhiều trường Luật tại Mỹ. Nội dung của thí nghiệm đó như sau:
 
@@ -32,7 +32,7 @@ Vậy điều đúng đắn phải làm là gì?
 
 Halkenburg phải đứng trước lựa chọn: 1 bên là vua cha, 1 bên là anh chị em và cả 200k thần dân trên tàu (số này vốn dĩ xem như vật hiến tế cho cuộc chiến, tàn sát thoải mái)
 
-" Quốc gia là thứ nên được tồn tại, chính sinh mạng người dân là lựa chọn cần thiết" - Vua Nasubi
+"Quốc gia là thứ nên được tồn tại, chính sinh mạng người dân là lựa chọn cần thiết" - Vua Nasubi
 
 Mình dự đoán Halkenburg sau này sẽ vẫn quay lại chọn cách giết vua cha và kết thúc cuộc chiến.
 
