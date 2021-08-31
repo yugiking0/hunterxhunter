@@ -1,6 +1,6 @@
 # ARC LỤC ĐỊA TỐI
 
----
+## https://yugiking0.github.io/hunterxhunter
 
 ## LỤC ĐỊA TỐI
 
